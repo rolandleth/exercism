@@ -1,6 +1,7 @@
 # Xcode
 .DS_Store
-*/build/*
+**/node_modules
+**/build
 *.pbxuser
 !default.pbxuser
 *.mode1v3
